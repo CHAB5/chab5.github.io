@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Chandana Basavaraj",
+    "description": "Hey there! I'm a Computer Science graduate from Concordia University, with over 3.5 years of hands-on experience in software development. Within my role as a Software Developer at Tektronix and through an enriching internship at Century Link, I've cultivated a robust skill set and garnered invaluable industry insights. Proficient in Java, C#, .NET framework, Python, and React, I leverage these technologies to engineer a diverse array of solutions. From architecting sleek websites tailored to small business needs to orchestrating dynamic web applications, my focus remains steadfast on delivering superior user experiences. I am committed to collaborative endeavors that bring forth innovative digital solutions.",
+    "image": "Chandana.jpg",
+    "bio": "Hello, I'm Chandana, a dedicated Software Developer on a mission to make a positive impact in the corporate world through technology. Currently based in Canada, I hail from India, where I cultivated my passion for technology and innovation. I am also proud to hold the AWS Certified Solutions Architect-Associate certification, showcasing my commitment to excellence in cloud solutions.",
+    "contactmessage": "Get in touch for further details",
+    "email": "chandana.basavaraj@outlook.com",
+    "phone": "+1 (438) 462-7437",
+    "address": {
+      "country": "Canada"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1OBUZW126_VYcJdohSRt6hOWTgaIDhAEy/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chandana-basavaraj/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/CHAB5",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Concordia University, Montreal, Canada",
+        "degree": "Master's in Applied Computer Science",
+        "graduated": "December 2023",
+        "description": "Pursuing a Master's degree in Applied Computer Science provided me with a much more comprehensive education in the underlying theories, concepts, and scientific principles behind complex programming. It was during this academic journey that I discovered my true passion for scalable application programming, specifically in the fields of web development."
+      },
+      {
+        "school": "The National Institute of Engineering, Mysore, India",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "May 2018",
+        "description": "While pursuing Bachelor's in Computer Science in Mysore,I delved into the fascinating world of computer and application system security. During this time, I gained good understanding of all the basics of Computer Science. "
+      }
+    ],
+    "work": [
+      {
+        "company": "Tektronix",
+        "title": "Software Design Engineer II",
+        "years": "July 2018 - December 2021",
+        "description": "Acquired comprehensive experience across all technical phases of the Software Development Life Cycle (SDLC), encompassing Requirement Analysis, Design, Implementation, and Testing. Specializing in both Web-based and Windows applications, with a focus on Object-Oriented and Client-Server technologies."
+      },
+      {
+        "company": "Century Link",
+        "title": "Software Developer intern",
+        "years": "March 2017 - May 2017",
+        "description": "During my internship, I contributed to the development of an Interview-Bot utilizing Natural Language Processing (NLP) to evaluate candidate performance, resulting in improved categorization accuracy and enhanced candidate assessment. Additionally, I actively participated in neural network development across Java, Python, and TensorFlow platforms, contributing to notable reductions in training time and heightened efficiency."
+      }
+    ],
+    "skills": [
+      {
+        "name": "• Languages: Java8+, C#, Python, C, C++, .NET, JavaScript/ES6, NodeJS, React, Vue.js."
+      },
+      {
+        "name": "• Frameworks: NestJS, Play, Spring, ExpressJS."
+      },
+      {
+        "name": "• Databases: MySQL, PostgreSQL, Elasticsearch, Redis, MongoDB."
+      },
+      {
+        "name": "• Visualization tools: Tableau, Grafana, Kibana."
+      },
+      {
+        "name": "• Testing Tools: Spock, Junit, Mockito, Jest, React testing library."
+      },
+      {
+        "name": "• Methodologies & Deployment: Agile, CI/CD, Git, Docker, Kubernetes."
+      },
+      {
+        "name": "• Cloud Technologies: AWS Certified Associate Solution Architect (SAA-C03), Azure, GCP."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Plagiarism Detection tool",
+        "category": "Technologies Used : Java, Bash",
+        "image": "Plagiarism.png",
+        "url": "https://github.com/CHAB5/Plagiarism_Detection/" 
+      },
+      {
+        "title": "Web-Based Video Capture and Playback Application",
+        "category": "Technologies Used : React, Express, NodeJS, Dash.js",
+        "image": "Video.png",
+        "url": "https://github.com/CHAB5/VideoCapture_and_Playback_WebApplication"
+      },
+      {
+        "title": "React Portfolio",
+        "category": "Built with React",
+        "image": "React.png",
+        "url": "https://github.com/CHAB5/chab5.github.io"
+      },
+      {
+        "title": "Reactive Server-Push web-app",
+        "category": "Technologies Used : Java, Play, Akka Streams, Rest API",
+        "image": "Java.png",
+        "url": "https://github.com/shubhamrajeevpunekar/FreeLancelot"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the pleasure of collaborating with Chandana on multiple occasions, and I can confidently say that working with her has been a delightful experience. Chandana is a highly motivated individual who consistently demonstrates a positive attitude towards her work.One of Chandana's standout qualities is her excellent communication skills. She excels at articulating her ideas and actively listens to others, fostering effective collaboration within the team. Whether it's discussing project requirements or troubleshooting technical issues, Chandana ensures that everyone is on the same page, creating a harmonious work environment.",
+        "user": "Sudarshan Kulkarni - Project Manager at Tektronix"
+      }
+    ]
+  }
+}
